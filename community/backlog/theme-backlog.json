@@ -1159,7 +1159,9 @@
     "mainColor": "oklch(78.0% 0.220 330.0 / 1)",
     "secondaryColor": "oklch(82.0% 0.185 190.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": false,
+    "completedBy": "yashushakya",
+    "completedPR": 30977
   },
   {
     "id": "quiet-library",
@@ -1889,7 +1891,9 @@
     "mainColor": "oklch(78.0% 0.170 45.0 / 1)",
     "secondaryColor": "oklch(70.0% 0.090 210.0 / 1)",
     "issued": false,
-    "completed": false
+    "completed": false,
+    "completedBy": "Himanshuch8055",
+    "completedPR": 31014
   },
   {
     "id": "sumi-ink",

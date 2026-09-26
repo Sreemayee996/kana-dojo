@@ -331,9 +331,21 @@
     "secondaryColor": "oklch(75.0% 0.085 85.0 / 1)"
   },
   {
-    id: 'sakura-storm',
-    backgroundColor: 'oklch(90.0% 0.032 340.0 / 1)',
-    mainColor: 'oklch(70.0% 0.185 345.0 / 1)',
-    secondaryColor: 'oklch(55.0% 0.145 350.0 / 1)'
+    "id": "sakura-storm",
+    "backgroundColor": "oklch(90.0% 0.032 340.0 / 1)",
+    "mainColor": "oklch(70.0% 0.185 345.0 / 1)",
+    "secondaryColor": "oklch(55.0% 0.145 350.0 / 1)"
+  },
+  {
+    "id": "harbor-lanterns",
+    "backgroundColor": "oklch(16.5% 0.040 250.0 / 1)",
+    "mainColor": "oklch(78.0% 0.170 45.0 / 1)",
+    "secondaryColor": "oklch(70.0% 0.090 210.0 / 1)"
+  },
+  {
+  "id": "sakurajima-ash",
+  "backgroundColor": "oklch(22.0% 0.025 270.0 / 1)",
+  "mainColor": "oklch(65.0% 0.170 25.0 / 1)",
+  "secondaryColor": "oklch(58.0% 0.055 260.0 / 1)"
   }
 ]
